@@ -1,1 +1,1 @@
-print("Hi Planet Earth!")
+print("Hi Mars!")
